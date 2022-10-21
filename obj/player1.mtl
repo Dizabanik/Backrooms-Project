@@ -1,0 +1,12 @@
+newmtl Startercharacter1Mtl
+Material Color
+Ka 0.835528 0.835528 0.835528
+Kd 0.835528 0.835528 0.835528
+Ks 0.330935 0.330935 0.330935 
+
+d 1
+
+Ns 0
+
+map_Bump Startercharacter1_nmap.png
+

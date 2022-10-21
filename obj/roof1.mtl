@@ -1,0 +1,30 @@
+newmtl BackroomsCeiling1Mtl
+Material Color
+Ka 0.940601 0.701169 0.154152
+Kd 0.940601 0.701169 0.154152
+Ks 0.0811499 0.0604931 0.0132994 
+
+d 1
+
+Ns 0
+
+map_Ka BackroomsCeiling1_diff.png
+map_Kd BackroomsCeiling1_diff.png
+map_d BackroomsCeiling1_diff.png
+
+map_Ns BackroomsCeiling1_spec.png
+
+newmtl BackroomsCeiling2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0862745 0.0862745 0.0862745 
+
+d 0.301961
+
+Ns 0
+
+map_Ka BackroomsCeiling2_diff.png
+map_Kd BackroomsCeiling2_diff.png
+map_d BackroomsCeiling2_diff.png
+
